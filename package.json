@@ -18,7 +18,7 @@
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport": "~0.1.1",
-    "oauth": "git+ssh://git@github.com/SkynetInc/node-oauth.git"
+    "oauth": "git+https://github.com/SkynetInc/node-oauth.git"
   },
   "devDependencies": {
     "vows": "0.6.x"
